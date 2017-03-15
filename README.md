@@ -11,15 +11,23 @@ Started from https://www.robinwieruch.de/minimal-react-webpack-babel-setup/ and 
 
 ## Setup
 
-1. Clone the repo.
-2. Run `yarn`
+1. Clone the repo:
+```
+$> git clone https://github.com/cassilup/react-hot-module-replace-tree-shake
+```
+
+2. Install dependencies:
+```
+$> yarn
+```
+
 
 ## Commands
 
 #### Development
 
 ```bash
-yarn start
+$> yarn start
 ```
 And navigate to http://localhost:8080 to see it in action.
 
@@ -28,7 +36,9 @@ Any changes to the JS(X) code will be Hot-Module-Replaced into the page (meaning
 #### Production
 
 ```bash
-yarn dist
+$> yarn dist
 ```
 
--- And you have the `dist/` folder holding both `index.html` as well as the app packaged in `bundle.js`.
+...and you now have the `dist/` folder holding both `index.html` as well as the app packaged in `bundle.js`.
+
+**Enjoy. :)**
