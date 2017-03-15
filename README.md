@@ -7,7 +7,10 @@ Started from https://www.robinwieruch.de/minimal-react-webpack-babel-setup/ and 
 
 ## Prerequisites
 
-`Node` and `yarn` installed.
+`node` and `yarn` installed.
+
+* Install [Node](https://nodejs.org/en/about/): https://nodejs.org/en/download/
+* Install [Yarn](https://yarnpkg.com/en/): https://yarnpkg.com/en/docs/install
 
 ## Setup
 
