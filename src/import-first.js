@@ -1,7 +1,7 @@
 import { CONST1, CONST2 } from "./import-second";
 
 export const sayHi = () => {
-  console.info("Hossi!", CONST1);
+  console.info("Hi!", CONST1);
 }
 
 export const sayHello = () => {
